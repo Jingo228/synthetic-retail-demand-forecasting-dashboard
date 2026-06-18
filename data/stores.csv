@@ -1,0 +1,4 @@
+store_id,store_name,store_type,region,state
+S001,Central Metro,metro,Central,NSW
+S002,North Suburban,suburban,North,NSW
+S003,West Regional,regional,West,NSW

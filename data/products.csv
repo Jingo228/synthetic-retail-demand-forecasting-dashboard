@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+P001,Milk,Dairy,2.4
+P002,Bread,Bakery,3.2
+P003,Eggs,Dairy,5.5
+P004,Chocolate,Confectionery,4.0
+P005,Ham,Deli,8.5
+P006,Ice cream,Frozen,6.0
+P007,BBQ sausages,Meat,7.5
+P008,Soup,Pantry,3.8
+P009,Olive oil,Pantry,11.0
+P010,Lettuce,Fresh Produce,2.8

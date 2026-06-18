@@ -1,0 +1,366 @@
+date,holiday_name,event_type,trading_status,expected_impact,event_window,closure_flag,reduced_trading_flag
+2025-01-01,New Year,new_year,reduced_trading,reduced trading,new_years_day_reduced_trading,0,1
+2025-01-02,New Year,new_year,normal,event-affected demand,new_year_travel_period,0,0
+2025-01-03,New Year,new_year,normal,event-affected demand,new_year_travel_period,0,0
+2025-01-04,New Year,new_year,normal,event-affected demand,new_year_travel_period,0,0
+2025-01-05,New Year,new_year,normal,event-affected demand,new_year_travel_period,0,0
+2025-01-06,None,normal,normal,normal,normal,0,0
+2025-01-07,None,normal,normal,normal,normal,0,0
+2025-01-08,None,normal,normal,normal,normal,0,0
+2025-01-09,None,normal,normal,normal,normal,0,0
+2025-01-10,None,normal,normal,normal,normal,0,0
+2025-01-11,None,normal,normal,normal,normal,0,0
+2025-01-12,None,normal,normal,normal,normal,0,0
+2025-01-13,None,normal,normal,normal,normal,0,0
+2025-01-14,None,normal,normal,normal,normal,0,0
+2025-01-15,None,normal,normal,normal,normal,0,0
+2025-01-16,None,normal,normal,normal,normal,0,0
+2025-01-17,None,normal,normal,normal,normal,0,0
+2025-01-18,None,normal,normal,normal,normal,0,0
+2025-01-19,None,normal,normal,normal,normal,0,0
+2025-01-20,None,normal,normal,normal,normal,0,0
+2025-01-21,None,normal,normal,normal,normal,0,0
+2025-01-22,None,normal,normal,normal,normal,0,0
+2025-01-23,None,normal,normal,normal,normal,0,0
+2025-01-24,Long Weekend,long_weekend,normal,expected demand uplift,pre_long_weekend_stock_up,0,0
+2025-01-25,Long Weekend,long_weekend,normal,event-affected demand,long_weekend,0,0
+2025-01-26,Long Weekend,long_weekend,normal,event-affected demand,long_weekend,0,0
+2025-01-27,Long Weekend,long_weekend,normal,event-affected demand,long_weekend,0,0
+2025-01-28,Long Weekend,long_weekend,normal,post-event recovery,post_long_weekend,0,0
+2025-01-29,None,normal,normal,normal,normal,0,0
+2025-01-30,None,normal,normal,normal,normal,0,0
+2025-01-31,None,normal,normal,normal,normal,0,0
+2025-02-01,None,normal,normal,normal,normal,0,0
+2025-02-02,None,normal,normal,normal,normal,0,0
+2025-02-03,None,normal,normal,normal,normal,0,0
+2025-02-04,None,normal,normal,normal,normal,0,0
+2025-02-05,None,normal,normal,normal,normal,0,0
+2025-02-06,None,normal,normal,normal,normal,0,0
+2025-02-07,None,normal,normal,normal,normal,0,0
+2025-02-08,None,normal,normal,normal,normal,0,0
+2025-02-09,None,normal,normal,normal,normal,0,0
+2025-02-10,None,normal,normal,normal,normal,0,0
+2025-02-11,None,normal,normal,normal,normal,0,0
+2025-02-12,None,normal,normal,normal,normal,0,0
+2025-02-13,None,normal,normal,normal,normal,0,0
+2025-02-14,None,normal,normal,normal,normal,0,0
+2025-02-15,None,normal,normal,normal,normal,0,0
+2025-02-16,None,normal,normal,normal,normal,0,0
+2025-02-17,None,normal,normal,normal,normal,0,0
+2025-02-18,None,normal,normal,normal,normal,0,0
+2025-02-19,None,normal,normal,normal,normal,0,0
+2025-02-20,None,normal,normal,normal,normal,0,0
+2025-02-21,None,normal,normal,normal,normal,0,0
+2025-02-22,None,normal,normal,normal,normal,0,0
+2025-02-23,None,normal,normal,normal,normal,0,0
+2025-02-24,None,normal,normal,normal,normal,0,0
+2025-02-25,None,normal,normal,normal,normal,0,0
+2025-02-26,None,normal,normal,normal,normal,0,0
+2025-02-27,None,normal,normal,normal,normal,0,0
+2025-02-28,None,normal,normal,normal,normal,0,0
+2025-03-01,None,normal,normal,normal,normal,0,0
+2025-03-02,None,normal,normal,normal,normal,0,0
+2025-03-03,None,normal,normal,normal,normal,0,0
+2025-03-04,None,normal,normal,normal,normal,0,0
+2025-03-05,None,normal,normal,normal,normal,0,0
+2025-03-06,None,normal,normal,normal,normal,0,0
+2025-03-07,None,normal,normal,normal,normal,0,0
+2025-03-08,None,normal,normal,normal,normal,0,0
+2025-03-09,None,normal,normal,normal,normal,0,0
+2025-03-10,None,normal,normal,normal,normal,0,0
+2025-03-11,None,normal,normal,normal,normal,0,0
+2025-03-12,None,normal,normal,normal,normal,0,0
+2025-03-13,None,normal,normal,normal,normal,0,0
+2025-03-14,None,normal,normal,normal,normal,0,0
+2025-03-15,None,normal,normal,normal,normal,0,0
+2025-03-16,None,normal,normal,normal,normal,0,0
+2025-03-17,None,normal,normal,normal,normal,0,0
+2025-03-18,None,normal,normal,normal,normal,0,0
+2025-03-19,None,normal,normal,normal,normal,0,0
+2025-03-20,None,normal,normal,normal,normal,0,0
+2025-03-21,None,normal,normal,normal,normal,0,0
+2025-03-22,None,normal,normal,normal,normal,0,0
+2025-03-23,None,normal,normal,normal,normal,0,0
+2025-03-24,None,normal,normal,normal,normal,0,0
+2025-03-25,None,normal,normal,normal,normal,0,0
+2025-03-26,None,normal,normal,normal,normal,0,0
+2025-03-27,None,normal,normal,normal,normal,0,0
+2025-03-28,None,normal,normal,normal,normal,0,0
+2025-03-29,None,normal,normal,normal,normal,0,0
+2025-03-30,None,normal,normal,normal,normal,0,0
+2025-03-31,None,normal,normal,normal,normal,0,0
+2025-04-01,None,normal,normal,normal,normal,0,0
+2025-04-02,None,normal,normal,normal,normal,0,0
+2025-04-03,None,normal,normal,normal,normal,0,0
+2025-04-04,None,normal,normal,normal,normal,0,0
+2025-04-05,None,normal,normal,normal,normal,0,0
+2025-04-06,None,normal,normal,normal,normal,0,0
+2025-04-07,None,normal,normal,normal,normal,0,0
+2025-04-08,None,normal,normal,normal,normal,0,0
+2025-04-09,None,normal,normal,normal,normal,0,0
+2025-04-10,Easter,easter,normal,expected demand uplift,easter_build_up,0,0
+2025-04-11,Easter,easter,normal,expected demand uplift,easter_build_up,0,0
+2025-04-12,Easter,easter,normal,expected demand uplift,easter_build_up,0,0
+2025-04-13,Easter,easter,normal,expected demand uplift,easter_build_up,0,0
+2025-04-14,Easter,easter,normal,expected demand uplift,easter_build_up,0,0
+2025-04-15,Easter,easter,normal,expected demand uplift,easter_build_up,0,0
+2025-04-16,Easter,easter,normal,expected demand uplift,easter_build_up,0,0
+2025-04-17,Easter,easter,normal,expected demand uplift,easter_build_up,0,0
+2025-04-18,Easter,easter,closed,closed,good_friday_closed,1,0
+2025-04-19,Easter,easter,normal,event-affected demand,easter_long_weekend,0,0
+2025-04-20,Easter,easter,closed,closed,easter_sunday_closed,1,0
+2025-04-21,Easter,easter,reduced_trading,reduced trading,easter_monday_reduced_trading,0,1
+2025-04-22,Easter,easter,normal,post-event recovery,post_easter_normalisation,0,0
+2025-04-23,Easter,easter,normal,post-event recovery,post_easter_normalisation,0,0
+2025-04-24,Easter,easter,normal,post-event recovery,post_easter_normalisation,0,0
+2025-04-25,Anzac,anzac,closed,closed,anzac_day_closed,1,0
+2025-04-26,None,normal,normal,normal,normal,0,0
+2025-04-27,None,normal,normal,normal,normal,0,0
+2025-04-28,None,normal,normal,normal,normal,0,0
+2025-04-29,None,normal,normal,normal,normal,0,0
+2025-04-30,None,normal,normal,normal,normal,0,0
+2025-05-01,None,normal,normal,normal,normal,0,0
+2025-05-02,None,normal,normal,normal,normal,0,0
+2025-05-03,None,normal,normal,normal,normal,0,0
+2025-05-04,None,normal,normal,normal,normal,0,0
+2025-05-05,None,normal,normal,normal,normal,0,0
+2025-05-06,None,normal,normal,normal,normal,0,0
+2025-05-07,None,normal,normal,normal,normal,0,0
+2025-05-08,None,normal,normal,normal,normal,0,0
+2025-05-09,None,normal,normal,normal,normal,0,0
+2025-05-10,None,normal,normal,normal,normal,0,0
+2025-05-11,None,normal,normal,normal,normal,0,0
+2025-05-12,None,normal,normal,normal,normal,0,0
+2025-05-13,None,normal,normal,normal,normal,0,0
+2025-05-14,None,normal,normal,normal,normal,0,0
+2025-05-15,None,normal,normal,normal,normal,0,0
+2025-05-16,None,normal,normal,normal,normal,0,0
+2025-05-17,None,normal,normal,normal,normal,0,0
+2025-05-18,None,normal,normal,normal,normal,0,0
+2025-05-19,None,normal,normal,normal,normal,0,0
+2025-05-20,None,normal,normal,normal,normal,0,0
+2025-05-21,None,normal,normal,normal,normal,0,0
+2025-05-22,None,normal,normal,normal,normal,0,0
+2025-05-23,None,normal,normal,normal,normal,0,0
+2025-05-24,None,normal,normal,normal,normal,0,0
+2025-05-25,None,normal,normal,normal,normal,0,0
+2025-05-26,None,normal,normal,normal,normal,0,0
+2025-05-27,None,normal,normal,normal,normal,0,0
+2025-05-28,None,normal,normal,normal,normal,0,0
+2025-05-29,None,normal,normal,normal,normal,0,0
+2025-05-30,None,normal,normal,normal,normal,0,0
+2025-05-31,None,normal,normal,normal,normal,0,0
+2025-06-01,None,normal,normal,normal,normal,0,0
+2025-06-02,None,normal,normal,normal,normal,0,0
+2025-06-03,None,normal,normal,normal,normal,0,0
+2025-06-04,None,normal,normal,normal,normal,0,0
+2025-06-05,None,normal,normal,normal,normal,0,0
+2025-06-06,Long Weekend,long_weekend,normal,expected demand uplift,pre_long_weekend_stock_up,0,0
+2025-06-07,Long Weekend,long_weekend,normal,event-affected demand,long_weekend,0,0
+2025-06-08,Long Weekend,long_weekend,normal,event-affected demand,long_weekend,0,0
+2025-06-09,Long Weekend,long_weekend,normal,event-affected demand,long_weekend,0,0
+2025-06-10,Long Weekend,long_weekend,normal,post-event recovery,post_long_weekend,0,0
+2025-06-11,None,normal,normal,normal,normal,0,0
+2025-06-12,None,normal,normal,normal,normal,0,0
+2025-06-13,None,normal,normal,normal,normal,0,0
+2025-06-14,None,normal,normal,normal,normal,0,0
+2025-06-15,None,normal,normal,normal,normal,0,0
+2025-06-16,None,normal,normal,normal,normal,0,0
+2025-06-17,None,normal,normal,normal,normal,0,0
+2025-06-18,None,normal,normal,normal,normal,0,0
+2025-06-19,None,normal,normal,normal,normal,0,0
+2025-06-20,None,normal,normal,normal,normal,0,0
+2025-06-21,None,normal,normal,normal,normal,0,0
+2025-06-22,None,normal,normal,normal,normal,0,0
+2025-06-23,None,normal,normal,normal,normal,0,0
+2025-06-24,None,normal,normal,normal,normal,0,0
+2025-06-25,None,normal,normal,normal,normal,0,0
+2025-06-26,None,normal,normal,normal,normal,0,0
+2025-06-27,None,normal,normal,normal,normal,0,0
+2025-06-28,None,normal,normal,normal,normal,0,0
+2025-06-29,None,normal,normal,normal,normal,0,0
+2025-06-30,None,normal,normal,normal,normal,0,0
+2025-07-01,None,normal,normal,normal,normal,0,0
+2025-07-02,None,normal,normal,normal,normal,0,0
+2025-07-03,None,normal,normal,normal,normal,0,0
+2025-07-04,None,normal,normal,normal,normal,0,0
+2025-07-05,None,normal,normal,normal,normal,0,0
+2025-07-06,None,normal,normal,normal,normal,0,0
+2025-07-07,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-08,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-09,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-10,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-11,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-12,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-13,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-14,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-15,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-16,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-17,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-18,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-19,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-20,School Holiday,school_holiday,normal,event-affected demand,winter_school_holiday,0,0
+2025-07-21,None,normal,normal,normal,normal,0,0
+2025-07-22,None,normal,normal,normal,normal,0,0
+2025-07-23,None,normal,normal,normal,normal,0,0
+2025-07-24,None,normal,normal,normal,normal,0,0
+2025-07-25,None,normal,normal,normal,normal,0,0
+2025-07-26,None,normal,normal,normal,normal,0,0
+2025-07-27,None,normal,normal,normal,normal,0,0
+2025-07-28,None,normal,normal,normal,normal,0,0
+2025-07-29,None,normal,normal,normal,normal,0,0
+2025-07-30,None,normal,normal,normal,normal,0,0
+2025-07-31,None,normal,normal,normal,normal,0,0
+2025-08-01,None,normal,normal,normal,normal,0,0
+2025-08-02,None,normal,normal,normal,normal,0,0
+2025-08-03,None,normal,normal,normal,normal,0,0
+2025-08-04,None,normal,normal,normal,normal,0,0
+2025-08-05,None,normal,normal,normal,normal,0,0
+2025-08-06,None,normal,normal,normal,normal,0,0
+2025-08-07,None,normal,normal,normal,normal,0,0
+2025-08-08,None,normal,normal,normal,normal,0,0
+2025-08-09,None,normal,normal,normal,normal,0,0
+2025-08-10,None,normal,normal,normal,normal,0,0
+2025-08-11,None,normal,normal,normal,normal,0,0
+2025-08-12,None,normal,normal,normal,normal,0,0
+2025-08-13,None,normal,normal,normal,normal,0,0
+2025-08-14,None,normal,normal,normal,normal,0,0
+2025-08-15,None,normal,normal,normal,normal,0,0
+2025-08-16,None,normal,normal,normal,normal,0,0
+2025-08-17,None,normal,normal,normal,normal,0,0
+2025-08-18,None,normal,normal,normal,normal,0,0
+2025-08-19,None,normal,normal,normal,normal,0,0
+2025-08-20,None,normal,normal,normal,normal,0,0
+2025-08-21,None,normal,normal,normal,normal,0,0
+2025-08-22,None,normal,normal,normal,normal,0,0
+2025-08-23,None,normal,normal,normal,normal,0,0
+2025-08-24,None,normal,normal,normal,normal,0,0
+2025-08-25,None,normal,normal,normal,normal,0,0
+2025-08-26,None,normal,normal,normal,normal,0,0
+2025-08-27,None,normal,normal,normal,normal,0,0
+2025-08-28,None,normal,normal,normal,normal,0,0
+2025-08-29,None,normal,normal,normal,normal,0,0
+2025-08-30,None,normal,normal,normal,normal,0,0
+2025-08-31,None,normal,normal,normal,normal,0,0
+2025-09-01,None,normal,normal,normal,normal,0,0
+2025-09-02,None,normal,normal,normal,normal,0,0
+2025-09-03,None,normal,normal,normal,normal,0,0
+2025-09-04,None,normal,normal,normal,normal,0,0
+2025-09-05,None,normal,normal,normal,normal,0,0
+2025-09-06,None,normal,normal,normal,normal,0,0
+2025-09-07,None,normal,normal,normal,normal,0,0
+2025-09-08,None,normal,normal,normal,normal,0,0
+2025-09-09,None,normal,normal,normal,normal,0,0
+2025-09-10,None,normal,normal,normal,normal,0,0
+2025-09-11,None,normal,normal,normal,normal,0,0
+2025-09-12,None,normal,normal,normal,normal,0,0
+2025-09-13,None,normal,normal,normal,normal,0,0
+2025-09-14,None,normal,normal,normal,normal,0,0
+2025-09-15,None,normal,normal,normal,normal,0,0
+2025-09-16,None,normal,normal,normal,normal,0,0
+2025-09-17,None,normal,normal,normal,normal,0,0
+2025-09-18,None,normal,normal,normal,normal,0,0
+2025-09-19,None,normal,normal,normal,normal,0,0
+2025-09-20,None,normal,normal,normal,normal,0,0
+2025-09-21,None,normal,normal,normal,normal,0,0
+2025-09-22,None,normal,normal,normal,normal,0,0
+2025-09-23,None,normal,normal,normal,normal,0,0
+2025-09-24,None,normal,normal,normal,normal,0,0
+2025-09-25,None,normal,normal,normal,normal,0,0
+2025-09-26,None,normal,normal,normal,normal,0,0
+2025-09-27,None,normal,normal,normal,normal,0,0
+2025-09-28,None,normal,normal,normal,normal,0,0
+2025-09-29,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-09-30,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-01,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-02,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-03,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-04,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-05,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-06,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-07,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-08,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-09,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-10,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-11,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-12,School Holiday,school_holiday,normal,event-affected demand,spring_school_holiday,0,0
+2025-10-13,None,normal,normal,normal,normal,0,0
+2025-10-14,None,normal,normal,normal,normal,0,0
+2025-10-15,None,normal,normal,normal,normal,0,0
+2025-10-16,None,normal,normal,normal,normal,0,0
+2025-10-17,None,normal,normal,normal,normal,0,0
+2025-10-18,None,normal,normal,normal,normal,0,0
+2025-10-19,None,normal,normal,normal,normal,0,0
+2025-10-20,None,normal,normal,normal,normal,0,0
+2025-10-21,None,normal,normal,normal,normal,0,0
+2025-10-22,None,normal,normal,normal,normal,0,0
+2025-10-23,None,normal,normal,normal,normal,0,0
+2025-10-24,None,normal,normal,normal,normal,0,0
+2025-10-25,None,normal,normal,normal,normal,0,0
+2025-10-26,None,normal,normal,normal,normal,0,0
+2025-10-27,None,normal,normal,normal,normal,0,0
+2025-10-28,None,normal,normal,normal,normal,0,0
+2025-10-29,None,normal,normal,normal,normal,0,0
+2025-10-30,None,normal,normal,normal,normal,0,0
+2025-10-31,None,normal,normal,normal,normal,0,0
+2025-11-01,None,normal,normal,normal,normal,0,0
+2025-11-02,None,normal,normal,normal,normal,0,0
+2025-11-03,None,normal,normal,normal,normal,0,0
+2025-11-04,None,normal,normal,normal,normal,0,0
+2025-11-05,None,normal,normal,normal,normal,0,0
+2025-11-06,None,normal,normal,normal,normal,0,0
+2025-11-07,None,normal,normal,normal,normal,0,0
+2025-11-08,None,normal,normal,normal,normal,0,0
+2025-11-09,None,normal,normal,normal,normal,0,0
+2025-11-10,None,normal,normal,normal,normal,0,0
+2025-11-11,None,normal,normal,normal,normal,0,0
+2025-11-12,None,normal,normal,normal,normal,0,0
+2025-11-13,None,normal,normal,normal,normal,0,0
+2025-11-14,None,normal,normal,normal,normal,0,0
+2025-11-15,None,normal,normal,normal,normal,0,0
+2025-11-16,None,normal,normal,normal,normal,0,0
+2025-11-17,None,normal,normal,normal,normal,0,0
+2025-11-18,None,normal,normal,normal,normal,0,0
+2025-11-19,None,normal,normal,normal,normal,0,0
+2025-11-20,None,normal,normal,normal,normal,0,0
+2025-11-21,None,normal,normal,normal,normal,0,0
+2025-11-22,None,normal,normal,normal,normal,0,0
+2025-11-23,None,normal,normal,normal,normal,0,0
+2025-11-24,None,normal,normal,normal,normal,0,0
+2025-11-25,None,normal,normal,normal,normal,0,0
+2025-11-26,None,normal,normal,normal,normal,0,0
+2025-11-27,None,normal,normal,normal,normal,0,0
+2025-11-28,None,normal,normal,normal,normal,0,0
+2025-11-29,None,normal,normal,normal,normal,0,0
+2025-11-30,None,normal,normal,normal,normal,0,0
+2025-12-01,None,normal,normal,normal,normal,0,0
+2025-12-02,None,normal,normal,normal,normal,0,0
+2025-12-03,None,normal,normal,normal,normal,0,0
+2025-12-04,None,normal,normal,normal,normal,0,0
+2025-12-05,None,normal,normal,normal,normal,0,0
+2025-12-06,None,normal,normal,normal,normal,0,0
+2025-12-07,None,normal,normal,normal,normal,0,0
+2025-12-08,None,normal,normal,normal,normal,0,0
+2025-12-09,None,normal,normal,normal,normal,0,0
+2025-12-10,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-11,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-12,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-13,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-14,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-15,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-16,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-17,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-18,Christmas,christmas,normal,expected demand uplift,early_christmas_build_up,0,0
+2025-12-19,Christmas,christmas,normal,expected demand uplift,peak_christmas_build_up,0,0
+2025-12-20,Christmas,christmas,normal,expected demand uplift,peak_christmas_build_up,0,0
+2025-12-21,Christmas,christmas,normal,expected demand uplift,peak_christmas_build_up,0,0
+2025-12-22,Christmas,christmas,normal,expected demand uplift,peak_christmas_build_up,0,0
+2025-12-23,Christmas,christmas,normal,expected demand uplift,peak_christmas_build_up,0,0
+2025-12-24,Christmas,christmas,normal,expected demand uplift,peak_christmas_build_up,0,0
+2025-12-25,Christmas,christmas,closed,closed,christmas_day_closed,1,0
+2025-12-26,Christmas,christmas,normal,post-event recovery,post_christmas,0,0
+2025-12-27,Christmas,christmas,normal,post-event recovery,post_christmas,0,0
+2025-12-28,Christmas,christmas,normal,post-event recovery,post_christmas,0,0
+2025-12-29,Christmas,christmas,normal,expected demand uplift,new_years_eve_build_up,0,0
+2025-12-30,Christmas,christmas,normal,expected demand uplift,new_years_eve_build_up,0,0
+2025-12-31,Christmas,christmas,normal,expected demand uplift,new_years_eve_build_up,0,0

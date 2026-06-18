@@ -1,0 +1,181 @@
+date,holiday_name,event_type,trading_status,expected_impact,event_window,holiday_flag,closure_flag,reduced_trading_flag,disruption_flag
+2026-01-01,New Year,new_year,reduced_trading,reduced trading,new_years_day_reduced_trading,1,0,1,0
+2026-01-02,New Year,new_year,normal,event-affected demand,new_year_travel_period,1,0,0,0
+2026-01-03,New Year,new_year,normal,event-affected demand,new_year_travel_period,1,0,0,0
+2026-01-04,New Year,new_year,normal,event-affected demand,new_year_travel_period,1,0,0,0
+2026-01-05,New Year,new_year,normal,event-affected demand,new_year_travel_period,1,0,0,0
+2026-01-06,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-07,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-08,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-09,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-10,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-11,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-12,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-13,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-14,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-15,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-16,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-17,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-18,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-19,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-20,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-21,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-22,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-23,Australia Day Long Weekend,long_weekend,normal,pre-holiday uplift,pre_long_weekend_stock_up,1,0,0,0
+2026-01-24,Australia Day Long Weekend,long_weekend,normal,long-weekend demand,long_weekend,1,0,0,0
+2026-01-25,Australia Day Long Weekend,long_weekend,normal,long-weekend demand,long_weekend,1,0,0,0
+2026-01-26,Australia Day Long Weekend,long_weekend,normal,long-weekend demand,long_weekend,1,0,0,0
+2026-01-27,Australia Day Long Weekend,long_weekend,normal,post-holiday recovery,post_long_weekend,1,0,0,0
+2026-01-28,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-29,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-30,None,none,normal,normal demand,normal,0,0,0,0
+2026-01-31,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-01,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-02,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-03,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-04,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-05,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-06,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-07,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-08,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-09,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-10,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-11,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-12,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-13,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-14,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-15,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-16,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-17,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-18,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-19,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-20,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-21,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-22,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-23,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-24,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-25,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-26,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-27,None,none,normal,normal demand,normal,0,0,0,0
+2026-02-28,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-01,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-02,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-03,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-04,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-05,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-06,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-07,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-08,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-09,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-10,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-11,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-12,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-13,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-14,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-15,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-16,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-17,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-18,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-19,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-20,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-21,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-22,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-23,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-24,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-25,None,none,normal,normal demand,normal,0,0,0,0
+2026-03-26,Easter,easter,normal,pre-holiday uplift,easter_build_up,1,0,0,0
+2026-03-27,Easter,easter,normal,pre-holiday uplift,easter_build_up,1,0,0,0
+2026-03-28,Easter,easter,normal,pre-holiday uplift,easter_build_up,1,0,0,0
+2026-03-29,Easter,easter,normal,pre-holiday uplift,easter_build_up,1,0,0,0
+2026-03-30,Easter,easter,normal,pre-holiday uplift,easter_build_up,1,0,0,0
+2026-03-31,Easter,easter,normal,pre-holiday uplift,easter_build_up,1,0,0,0
+2026-04-01,Easter,easter,normal,pre-holiday uplift,easter_build_up,1,0,0,0
+2026-04-02,Easter,easter,normal,pre-holiday uplift,easter_build_up,1,0,0,0
+2026-04-03,Good Friday,easter,closed,closed trading day,good_friday_closed,1,1,0,0
+2026-04-04,Easter,easter,normal,long-weekend demand,easter_long_weekend,1,0,0,0
+2026-04-05,Easter Sunday,easter,closed,closed trading day,easter_sunday_closed,1,1,0,0
+2026-04-06,Easter Monday,easter,reduced_trading,reduced trading,easter_monday_reduced_trading,1,0,1,0
+2026-04-07,Easter,easter,normal,post-holiday recovery,post_easter_normalisation,1,0,0,0
+2026-04-08,Easter,easter,normal,post-holiday recovery,post_easter_normalisation,1,0,0,0
+2026-04-09,Easter,easter,normal,post-holiday recovery,post_easter_normalisation,1,0,0,0
+2026-04-10,Easter,easter,normal,post-holiday recovery,post_easter_normalisation,1,0,0,0
+2026-04-11,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-12,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-13,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-14,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-15,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-16,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-17,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-18,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-19,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-20,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-21,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-22,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-23,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-24,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-25,ANZAC Day,public_holiday,closed,closed trading day,anzac_day_closed,1,1,0,0
+2026-04-26,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-27,ANZAC Day Additional Public Holiday,public_holiday,normal,public-holiday demand,anzac_additional_public_holiday,1,0,0,0
+2026-04-28,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-29,None,none,normal,normal demand,normal,0,0,0,0
+2026-04-30,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-01,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-02,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-03,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-04,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-05,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-06,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-07,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-08,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-09,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-10,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-11,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-12,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-13,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-14,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-15,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-16,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-17,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-18,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-19,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-20,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-21,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-22,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-23,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-24,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-25,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-26,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-27,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-28,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-29,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-30,None,none,normal,normal demand,normal,0,0,0,0
+2026-05-31,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-01,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-02,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-03,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-04,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-05,King's Birthday Long Weekend,long_weekend,normal,pre-holiday uplift,pre_long_weekend_stock_up,1,0,0,0
+2026-06-06,King's Birthday Long Weekend,long_weekend,normal,long-weekend demand,long_weekend,1,0,0,0
+2026-06-07,King's Birthday Long Weekend,long_weekend,normal,long-weekend demand,long_weekend,1,0,0,0
+2026-06-08,King's Birthday Long Weekend,long_weekend,normal,long-weekend demand,long_weekend,1,0,0,0
+2026-06-09,King's Birthday Long Weekend,long_weekend,normal,post-holiday recovery,post_long_weekend,1,0,0,0
+2026-06-10,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-11,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-12,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-13,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-14,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-15,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-16,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-17,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-18,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-19,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-20,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-21,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-22,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-23,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-24,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-25,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-26,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-27,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-28,None,none,normal,normal demand,normal,0,0,0,0
+2026-06-29,None,none,normal,normal demand,normal,0,0,0,0

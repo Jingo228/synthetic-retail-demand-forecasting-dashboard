@@ -1,11 +1,34 @@
 product_id,product_name,category,unit_price
 P001,Milk,Dairy,2.4
-P002,Bread,Bakery,3.2
-P003,Eggs,Dairy,5.5
-P004,Chocolate,Confectionery,4.0
-P005,Ham,Deli,8.5
-P006,Ice cream,Frozen,6.0
-P007,BBQ sausages,Meat,7.5
-P008,Soup,Pantry,3.8
-P009,Olive oil,Pantry,11.0
-P010,Lettuce,Fresh Produce,2.8
+P002,Greek Yogurt,Dairy,4.8
+P003,Cheddar Cheese,Dairy,6.5
+P004,Butter,Dairy,5.2
+P005,Eggs,Dairy,5.5
+P006,Bread,Bakery,3.2
+P007,Croissants,Bakery,4.5
+P008,Bagels,Bakery,4.2
+P009,Muffins,Bakery,4.8
+P010,Chocolate,Confectionery,4.0
+P011,Biscuits,Confectionery,3.6
+P012,Soft Drink,Beverages,3.5
+P013,Sparkling Water,Beverages,2.9
+P014,Orange Juice,Beverages,4.2
+P015,Coffee,Beverages,8.5
+P016,Tea,Beverages,4.6
+P017,Pasta,Pantry,2.8
+P018,Rice,Pantry,3.4
+P019,Soup,Pantry,3.8
+P020,Olive Oil,Pantry,11.0
+P021,Frozen Pizza,Frozen,7.5
+P022,Ice Cream,Frozen,6.0
+P023,Frozen Vegetables,Frozen,4.8
+P024,Laundry Detergent,Household,12.5
+P025,Dishwashing Liquid,Household,5.8
+P026,Paper Towels,Household,4.6
+P027,BBQ Sausages,Meat,7.5
+P028,Chicken Breast,Meat,11.5
+P029,Ham,Deli,8.5
+P030,Apples,Fresh Produce,3.8
+P031,Bananas,Fresh Produce,2.6
+P032,Lettuce,Fresh Produce,2.8
+P033,Tomatoes,Fresh Produce,4.5

@@ -1,4 +1,4 @@
-product_id,product_name,category,unit_price
+product_id,product_name,category,base_unit_price
 P001,Milk,Dairy,2.4
 P002,Greek Yogurt,Dairy,4.8
 P003,Cheddar Cheese,Dairy,6.5
